@@ -1,0 +1,14 @@
+D:\C#\ScreenSoundComAPIExterna\bin\Debug\net9.0\ScreenSoundComAPIExterna.exe
+D:\C#\ScreenSoundComAPIExterna\bin\Debug\net9.0\ScreenSoundComAPIExterna.deps.json
+D:\C#\ScreenSoundComAPIExterna\bin\Debug\net9.0\ScreenSoundComAPIExterna.runtimeconfig.json
+D:\C#\ScreenSoundComAPIExterna\bin\Debug\net9.0\ScreenSoundComAPIExterna.dll
+D:\C#\ScreenSoundComAPIExterna\bin\Debug\net9.0\ScreenSoundComAPIExterna.pdb
+D:\C#\ScreenSoundComAPIExterna\obj\Debug\net9.0\ScreenSoundComAPIExterna.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ScreenSoundComAPIExterna\obj\Debug\net9.0\ScreenSoundComAPIExterna.AssemblyInfoInputs.cache
+D:\C#\ScreenSoundComAPIExterna\obj\Debug\net9.0\ScreenSoundComAPIExterna.AssemblyInfo.cs
+D:\C#\ScreenSoundComAPIExterna\obj\Debug\net9.0\ScreenSoundComAPIExterna.csproj.CoreCompileInputs.cache
+D:\C#\ScreenSoundComAPIExterna\obj\Debug\net9.0\ScreenSoundComAPIExterna.dll
+D:\C#\ScreenSoundComAPIExterna\obj\Debug\net9.0\refint\ScreenSoundComAPIExterna.dll
+D:\C#\ScreenSoundComAPIExterna\obj\Debug\net9.0\ScreenSoundComAPIExterna.pdb
+D:\C#\ScreenSoundComAPIExterna\obj\Debug\net9.0\ScreenSoundComAPIExterna.genruntimeconfig.cache
+D:\C#\ScreenSoundComAPIExterna\obj\Debug\net9.0\ref\ScreenSoundComAPIExterna.dll
